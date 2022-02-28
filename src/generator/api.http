@@ -1,0 +1,4 @@
+GET https://api.adviceslip.com/advice
+Accept: application/json
+
+###
